@@ -8,6 +8,7 @@ public class RaspberryPiSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RaspberryPiSpringBootApplication.class, args);
+		System.out.println("Running");
 	}
 
 }
